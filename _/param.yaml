@@ -7,7 +7,7 @@ domain: ''
 intro: ''
 googleanalytics: ''
 googleplus: ''
-brand: 'default'
+brand: '01'
 landslide: /usr/bin/landslide
 css: _/default.css
 js: _/default.js
