@@ -28,8 +28,3 @@ Mart 2015
 
 -   Hayat renklerle daha güzel
 
-#   Secret Gist
-
--   Bu butonu kullanmayın
-
--   NASA'nın uzay mekiğine program yazmıyorsunuz
