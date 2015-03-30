@@ -74,6 +74,14 @@ Danışmansız öğrenme yöntemlerinden biridir
 
 ![competitive2](media/competitive2.png)
 
+##  3 Boyutlu Uzayda Giriş Verileri
+
+![competitive16](media/competitive16.png)
+
+##  Giriş Verileri ve Ağırlıklar
+
+![competitive17](media/competitive17.png)
+
 ##  Yarışmacı Öğrenme
 
 -   Çıkışa göre veya öklid uzaklığına göre
